@@ -9,5 +9,8 @@
     "quotes": "off",
     "semi": "off",
     "space-before-function-paren": "off"
+  },
+  "env": {
+    "jest": true
   }
 }
